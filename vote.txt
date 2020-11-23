@@ -1,0 +1,5 @@
+le nombre de personnes qui ont visité le systéme : 3
+Russell a le nombre de vote suivants : 
+Denzel a le nombre de vote suivants : 
+Mill a le nombre de vote suivants : 
+Jhonny a le nombre de vote suivants : 
